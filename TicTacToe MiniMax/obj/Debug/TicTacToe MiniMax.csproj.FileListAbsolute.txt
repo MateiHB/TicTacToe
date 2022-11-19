@@ -1,0 +1,14 @@
+C:\Users\Matei\Desktop\C# projects\TicTacToe MiniMax\bin\Debug\TicTacToe MiniMax.exe.config
+C:\Users\Matei\Desktop\C# projects\TicTacToe MiniMax\bin\Debug\TicTacToe MiniMax.exe
+C:\Users\Matei\Desktop\C# projects\TicTacToe MiniMax\bin\Debug\TicTacToe MiniMax.pdb
+C:\Users\Matei\Desktop\C# projects\TicTacToe MiniMax\obj\Debug\TicTacToe MiniMax.csprojAssemblyReference.cache
+C:\Users\Matei\Desktop\C# projects\TicTacToe MiniMax\obj\Debug\TicTacToe_MiniMax.TicTacToe.resources
+C:\Users\Matei\Desktop\C# projects\TicTacToe MiniMax\obj\Debug\TicTacToe_MiniMax.Properties.Resources.resources
+C:\Users\Matei\Desktop\C# projects\TicTacToe MiniMax\obj\Debug\TicTacToe MiniMax.csproj.GenerateResource.cache
+C:\Users\Matei\Desktop\C# projects\TicTacToe MiniMax\obj\Debug\TicTacToe MiniMax.csproj.CoreCompileInputs.cache
+C:\Users\Matei\Desktop\C# projects\TicTacToe MiniMax\obj\Debug\TicTacToe MiniMax.exe
+C:\Users\Matei\Desktop\C# projects\TicTacToe MiniMax\obj\Debug\TicTacToe MiniMax.pdb
+C:\Users\Matei\Desktop\C# projects\TicTacToe MiniMax\bin\Debug\TicTacToe MiniMax.exe.manifest
+C:\Users\Matei\Desktop\C# projects\TicTacToe MiniMax\bin\Debug\TicTacToe MiniMax.application
+C:\Users\Matei\Desktop\C# projects\TicTacToe MiniMax\obj\Debug\TicTacToe MiniMax.exe.manifest
+C:\Users\Matei\Desktop\C# projects\TicTacToe MiniMax\obj\Debug\TicTacToe MiniMax.application
