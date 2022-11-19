@@ -20,3 +20,7 @@ Nevertheless, the third algorithm does have a weakness: it does not prioritise w
 ### Here is a video showcasing the application : 
 
 [<img height="300" src="./images/thumbnail.png">](https://youtu.be/ZiPJsBxG1pc)
+
+<sub>
+  (Click on the image to open the youtube video)
+</sub>
