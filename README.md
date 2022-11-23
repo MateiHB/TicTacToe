@@ -19,7 +19,7 @@ The following image does a good job at explaining what the *Minimax* algorithm d
 
 Nevertheless, the third algorithm does have a weakness: it does not prioritise winning with less moves. As long as the algorithm wins, it picks the first option that it finds. This does not affect its score but it does affect the amount of moves it takes to win.
 
-Furthermore, the *Minimax* algorithm also uses *Alpha-Beta Pruning*. This feature helps decrease the number of options visited by the AI by evaluating if a tree branch is worth visiting. 
+Furthermore, the *Minimax* algorithm also uses *Alpha-Beta Pruning*. This feature helps decrease the number of options visited by the AI by evaluating if a tree branch is worth visiting. By doing so, the algorithm is more efficient.
 
 ---
 
